@@ -1,5 +1,36 @@
+<<<<<<< HEAD
 p{ background-color: aqua;
 
 
 
+=======
+p {
+    background-color: gainsboro;
+    color: red;
+    font-size: 20px;
+}
+
+a {
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+h2 {
+    color: pink
+}
+
+#idNome{
+    color: blue
+
+}
+
+input{
+    color: brown;
+}
+
+.colorido {
+    color: orangered;
+    font-size: 30px;
+>>>>>>> 4a5c63fda6dbb8c386a78d18a0dc764dd9a3024d
 }
